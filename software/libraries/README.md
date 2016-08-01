@@ -1,8 +1,6 @@
 ##NovaDotMatrix/
 
-  Arduino-compatible software for the dot-matrix board 
-
-  You'll need to add attiny 
+  Arduino IDE compatible software for the dot-matrix board 
 
 ##NovaDotMatrixDriver/
 
