@@ -16,3 +16,4 @@ More description over on https://hackaday.io/project/7788-nova-smt-blinky
 
 ![](https://github.com/cogwheelcircuitworks/NovaSMTBlinky/blob/master/etc/hookup.png)  
 
+![](https://github.com/cogwheelcircuitworks/NovaSMTBlinky/blob/master/etc/NovaSMTBlinkyArduinoHookup.png)
